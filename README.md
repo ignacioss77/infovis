@@ -1,4 +1,5 @@
 # infovis
 
-ITBA Visualización de la INformación
+ITBA 
+Visualización de la Información
                         
